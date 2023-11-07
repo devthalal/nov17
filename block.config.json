@@ -1,0 +1,21 @@
+{
+  "name": "nov17",
+  "type": "package",
+  "blockId": "t_DXiNS6Jxm7EZGOiWc77",
+  "source": {
+    "https": "https://github.com/devthalal/nov17.git",
+    "ssh": "git@github.com:devthalal/nov17.git",
+    "branch": "block_nov17"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "nov17_fn": {
+      "directory": "nov17_fn"
+    }
+  }
+}
