@@ -1,0 +1,20 @@
+{
+  "blockId": "q6wDeyQu9W_6NizE2vaga",
+  "name": "nov17_fn",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/devthalal/nov17.git",
+    "ssh": "git@github.com:devthalal/nov17.git",
+    "branch": "block_nov17_fn"
+  },
+  "parentBlockIDs": [
+    "t_DXiNS6Jxm7EZGOiWc77"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
