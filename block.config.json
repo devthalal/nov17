@@ -15,7 +15,11 @@
   "repoType": "mono",
   "dependencies": {
     "nov17_fn": {
-      "directory": "nov17_fn"
+      "directory": "nov17_fn",
+      "versionId": "mkdsJYLgCQ4SzMm-i3-dn",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "yEwL5vqrZVaIY2-Jfj5HI"
 }
